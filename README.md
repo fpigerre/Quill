@@ -7,3 +7,5 @@ Quill uses the following fonts:
 * Lato       - Weights 100, 300, 400 and 700
 * Exo        - Weight 400
 * Montserrat - Weight 400
+
+Quill uses [Squire](http://neilj.github.io/Squire/) to implement text-editing utilities.
